@@ -4,7 +4,7 @@ sources:
   - name: tpch
     description: Sample TPCH data
     loader: sample
-    catalog: tpch
+#    catalog: tpch
     schema: tiny  # update this to try a bigger dataset: sf100, sf1000...
     tables:
       - name: nation

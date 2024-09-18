@@ -4,7 +4,7 @@ sources:
   - name: snowflake
     description: sample snowflake covid data
     loader: sample
-    catalog: dbt_snow
+#    catalog: dbt_snow
     schema: public  
     tables:
 
